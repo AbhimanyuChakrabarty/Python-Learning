@@ -1,0 +1,5 @@
+# Ignore specific local learning/practice scripts
+if_else_statements.py
+Variables.py
+test.py
+.vscode/
